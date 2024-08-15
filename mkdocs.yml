@@ -1,5 +1,5 @@
 site_name: Course Name (a template)
-repo_url: https://github.com/hamk-business-information-technology/mkdocs-material-template
+repo_url: https://dipaish.github.io/template24/
 edit_uri: edit/main/docs/ # to let content.action.edit / view redirect to `main`, not `master`
 repo_name: hamk-bit-ca/template
 theme:
